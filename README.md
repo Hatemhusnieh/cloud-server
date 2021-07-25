@@ -16,9 +16,9 @@
 - This application was made through pair programming.
 
 ## Deploy, Run and Test
-- [test report]()
+- [test report](https://github.com/Hatemhusnieh/cloud-server/actions)
 - [deployed link](http://awscloudservers-env.eba-cpmgmtfy.us-east-1.elasticbeanstalk.com/)
-- [Pull Request]()
+- [Pull Request](https://github.com/Hatemhusnieh/cloud-server/pull/1)
 
 ### Setup  
 #### `.env` requirement
